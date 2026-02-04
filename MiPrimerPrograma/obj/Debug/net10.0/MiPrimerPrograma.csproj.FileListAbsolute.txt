@@ -1,0 +1,15 @@
+/workspaces/csharp-ni/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma
+/workspaces/csharp-ni/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.deps.json
+/workspaces/csharp-ni/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.runtimeconfig.json
+/workspaces/csharp-ni/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.dll
+/workspaces/csharp-ni/MiPrimerPrograma/bin/Debug/net10.0/MiPrimerPrograma.pdb
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.AssemblyInfoInputs.cache
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.AssemblyInfo.cs
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.csproj.CoreCompileInputs.cache
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.sourcelink.json
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.dll
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/refint/MiPrimerPrograma.dll
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.pdb
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/MiPrimerPrograma.genruntimeconfig.cache
+/workspaces/csharp-ni/MiPrimerPrograma/obj/Debug/net10.0/ref/MiPrimerPrograma.dll
